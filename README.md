@@ -4,5 +4,5 @@ Librarari care trebuie instalate: https://pypi.org/project/rsa/ ----> pip instal
 
 IMPORTANT : 
 
-Inainte sa rulezi scriptul creaza un folder gol numit 'keys' este important pentru stocarea cheilor private si celor publice daca ai rulat scriptul inainte sa creezi fisierul sterge fisierul '.txt' care sa generat automat, creaza folderul si ruleaza din nou ar trebui sa mearga 
+Inainte sa rulezi scriptul creaza un folder gol numit 'keys' este important pentru stocarea cheilor private si celor publice daca ai rulat scriptul inainte sa creezi folderul sterge fisierul '.txt' care sa generat automat, creaza folderul numit 'keys' si ruleaza din nou ar trebui sa mearga 
 
